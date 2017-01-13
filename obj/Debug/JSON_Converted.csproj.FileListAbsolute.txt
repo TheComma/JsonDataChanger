@@ -1,0 +1,12 @@
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\JSON_Converted.exe.config
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\obj\Debug\JSON_Converted.csprojResolveAssemblyReference.cache
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\JSON_Converted.exe
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\JSON_Converted.pdb
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\EntityFramework.dll
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\Newtonsoft.Json.dll
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\EntityFramework.xml
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\bin\Debug\Newtonsoft.Json.xml
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\obj\Debug\JSON_Converted.exe
+c:\users\tadas\documents\visual studio 2015\Projects\JSON_Converted\obj\Debug\JSON_Converted.pdb
